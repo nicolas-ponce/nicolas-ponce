@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nicolás Ponce</h1>
 <h3 align="center">A passionate Front-End Web Developer and UX Designer. I also have a background as a Volunteer Firefighter!</h3>
 
-- 🌱 I’m currently learning **React Native**, and finishing my studies in the **UX Designer Google Course**
+- 🌱 I’m currently learning **React**, and finishing my studies in the **UX Designer Google Course**
 
 - 📫 Reach me anytime! -> **nicolas.mponce15@gmail.com**
 
