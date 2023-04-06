@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)" alt="animation" />
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="animation" />
 </p>
 <h1 align="center">Hi 👋, I'm Nicolás Ponce</h1>
 <h3 align="center">A Front-End Developer and UX Designer. I also have a background as a Volunteer Firefighter!</h3>
