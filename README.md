@@ -1,3 +1,5 @@
+<img height="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="animation" />
+
 <h1 align="center">Hi 👋, I'm Nicolás Ponce</h1>
 <h3 align="center">A Front-End React.Ts Developer, UX/UI Designer, and SEO Specialist! I also love customer service and user-focused work systems!</h3>
 
