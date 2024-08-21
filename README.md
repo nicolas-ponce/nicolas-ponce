@@ -1,17 +1,18 @@
+<p align="center">
 <img height="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="animation" />
+</p>
+<h1 align="center">Hi 👋, I'm Nicolas Ponce</h1>
+<h3 align="center">A Front-End React.Ts Developer, UX/UI Designer, and SEO Specialist! I also love customer service and user-focused work systems.</h3>
 
-<h1 align="center">Hi 👋, I'm Nicolás Ponce</h1>
-<h3 align="center">A Front-End React.Ts Developer, UX/UI Designer, and SEO Specialist! I also love customer service and user-focused work systems!</h3>
+- I’m currently improving my **React, Redux, Next.Js, and Test Driven Development** knowledge at **Digital House**, making me an **Advanced Front End Web Developer.**
 
-- I’m currently improving **my React, Redux, Next.Js, and Test Driven Development knowledge at Digital House, making me an Advanced Front End Web Developer.**
+- Personal Portfolio -> [https://nicolasponce.vercel.app/](https://nicolasponce.vercel.app/)
 
-- Personal Portfolio [https://nicolasponce.vercel.app/](https://nicolasponce.vercel.app/)
+- LinkedIn -> [https://www.linkedin.com/in/nicolas-mponce/](https://www.linkedin.com/in/nicolas-mponce/)
 
-- LinkedIn [https://www.linkedin.com/in/nicolas-mponce/](https://www.linkedin.com/in/nicolas-mponce/)
+- Reach me anytime at nicolas.mponce15@gmail.com
 
-- How to reach me **nicolas.mponce15@gmail.com**
-
-- ⚡ Fun fact **I have a background as a Volunteer Firefighter!**
+- ⚡ Fun fact, I'm also a **Volunteer Firefighter!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
